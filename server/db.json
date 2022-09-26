@@ -1,0 +1,52 @@
+{
+  "games": [
+    {
+      "id": "AA@1",
+      "title": "Title1",
+      "gender": "Gender1",
+      "developer": "Developer1",
+      "editor": "Editor1",
+      "photo": "https://emojigraph.org/media/microsoft/video-game_1f3ae.png"
+    },
+    {
+      "id": "AA@2",
+      "title": "Title2",
+      "gender": "Gender2",
+      "developer": "Developer2",
+      "editor": "Editor2",
+      "photo": "https://www.svgrepo.com/show/170489/gamepad-controller.svg"
+    },
+    {
+      "title": "The Last of Us Part II",
+      "gender": "Action/Adventure/Shooter",
+      "developer": "Naughty Dog",
+      "editor": "Sony Interactive Entertainment",
+      "photo": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png?w=1200",
+      "id": "P422bc_"
+    },
+    {
+      "title": "God of War",
+      "gender": "Action/Adventure",
+      "developer": "Santa Monica Studio",
+      "editor": "PlayStation PC LLC",
+      "photo": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/RnDzysOs81fdvhdQAHYtxjFT.png?w=1200",
+      "id": "Y4Sunnp"
+    },
+    {
+      "title": "Assasins Creed Valhalla",
+      "gender": "Action/Adventure",
+      "developer": "Ubisoft Montreal",
+      "editor": "Ubisoft",
+      "photo": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1318/8XGEPtD1xoasK0FYkYNcCn1z.png?w=1200",
+      "id": "PDGp85M"
+    },
+    {
+      "title": "Horizon - Forbidden West",
+      "gender": "Action/Adventure",
+      "developer": "Guerrilla Games",
+      "editor": "Sony Interactive Entertainment",
+      "photo": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/HO8vkO9pfXhwbHi5WHECQJdN.png?w=1200",
+      "id": "qIZ2g2K"
+    }
+  ]
+}
